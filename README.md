@@ -27,13 +27,6 @@ Here are some of my key repositories you might like:
 
 ---
 
-### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark)
-
----
-
 ### ⚡ Fun Fact
 
 I love late-night coding and debugging with lo-fi music 🎧
