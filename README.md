@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Hi there! I'm PRIYANSHU BISHT
 
-<!--
-**01priyanshubisht/01priyanshubisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd-year Computer Science student passionate about Data Structures & Algorithms, AI/ML, and Full-Stack Development. I love building cool projects, solving challenging problems, and continuously learning new technologies.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: Deep Learning, MERN Stack
+- 🔭 Working on: Personal AI-based projects and competitive coding
+- 🛠️ Tech Stack: Python, Java, C++, JavaScript, React, Node.js, MongoDB, TensorFlow, scikit-learn
+- ⚙️ Tools: Git, GitHub, VSCode, Jupyter, Figma
+- 🧠 Interests: Artificial Intelligence, Web Development, Open Source
+- 📫 How to reach me: priyanshubisht304@gmail.com | (https://www.linkedin.com/in/priyanshu-bisht/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Pinned Projects
+
+Here are some of my key repositories you might like:
+
+- 🔍 **AI/ML Projects**
+  - 🧠 [IRIS-Detection]: This project is using OpenCv along with Python to detect pupils of your eyes using webcam.
+  - 🐍 [Image-Recognition-Using-CNN]: [Brief description – e.g., Face detection using OpenCV and CNN]
+
+- 💻 **Development Projects**
+  - 🌐 [DP-Hacking-Game]: A web-based project designed to replicate/build similar "hacking" challenges that can be found on the NoPixel 4.0 FiveM Server.
+
+- ⚔️ **DSA Practice**
+  - 📚 [Optimize-Patrol-Routes-in-Jim-Corbett-National-Park]: The Wildlife Patrol app is designed to help park rangers optimize their patrol routes through Jim Corbett National Park using advanced graph algorithms.
+
+---
+
+### 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark)
+
+---
+
+### ⚡ Fun Fact
+
+I love late-night coding and debugging with lo-fi music 🎧
