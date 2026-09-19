@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm PRIYANSHU BISHT
 
-I'm a 2nd-year Computer Science student passionate about Data Structures & Algorithms, AI/ML, and Full-Stack Development. I love building cool projects, solving challenging problems, and continuously learning new technologies.
+I'm a Final-year Computer Science student passionate about Data Structures & Algorithms, AI/ML, and Full-Stack Development. I love building cool projects, solving challenging problems, and continuously learning new technologies.
 
 - 🌱 Currently learning: Deep Learning, MERN Stack
 - 🔭 Working on: Personal AI-based projects and competitive coding
